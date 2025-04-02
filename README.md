@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zwelakhe-Y
-- 👀 I’m interested in Website Creation,Javascript coding and Python
+- 👀 I’m interested in Website Creation,Javascript and Python
 - 🌱 I’m currently learning Python, SQL, MongoDB, Javascript, Node.js, Express.js and React
 - 💞️ I’m looking to collaborate on any website building projects(frontend or backend)
 - 📫 How to reach me : email: zwelakheyende11@gmail.com <br>
