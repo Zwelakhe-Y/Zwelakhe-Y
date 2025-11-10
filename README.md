@@ -31,6 +31,14 @@
 
 - <b> [ Weather App ( API, Javascript) ]</b> <br>
   - (https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Web%20APPS/Simple%20Apps/Weather%20App)
+ 
+<h2>⚙️ IT Junior Engineer</h2>
+
+- <b>[ Azure Labs ] </b><br>
+  - (https://github.com/Azure-Labs-IT)
+  
+- <b>[ Lab 1 ]</b> <br>
+  - (https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/README.md)
     
 <h2> 🤳 Connect with me:</h2>
 
