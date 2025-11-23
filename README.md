@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zweli! a <br/><a href="https://github.com/Zwelakhe-Y">Web Developer</a>, <a href="https://www.linkedin.com/in/zwelakhe-yende-7b599b279">Customer Support Agent</a> and <a href=""> IT Professional </a>
+<h1>Hi, I'm Zweli ! a <br/><a href="https://github.com/Zwelakhe-Y">Web Developer</a>, <a href="https://www.linkedin.com/in/zwelakhe-yende-7b599b279">Customer Support Agent</a> and <a href=""> IT Professional </a>
 
 <h2>👨‍💻 Web Development Projects (Frontend) (MERN STACK):</h2>
 
@@ -39,6 +39,9 @@
   
 - <b>[ Lab 1 ]</b> <br>
   - (https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/README.md)
+ 
+- <b>[ Lab 2 ]</b> <br>
+  - (https://github.com/Azure-Labs-IT/Lab-2-Azure/blob/main/README.md)
     
 <h2> 🤳 Connect with me:</h2>
 
