@@ -36,7 +36,7 @@
 
 
   - <b>[ Azure Labs ] </b><br>
-  - (https://github.com/Azure-Labs-IT)
+   (https://github.com/Azure-Labs-IT)
     <ul>
       <li>
         <b>[ Lab 1 ]</b> <br>
