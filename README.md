@@ -38,10 +38,10 @@
   - <b>[ Azure Labs ] </b><br>
   - (https://github.com/Azure-Labs-IT)
     <li>
-    <b>[ Lab 1 ]</b> <br>
+      <b>[ Lab 1 ]</b> <br>
       (https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/README.md)
  
-    <b>[ Lab 2 ]</b> <br>
+      <b>[ Lab 2 ]</b> <br>
       (https://github.com/Azure-Labs-IT/Lab-2-Azure/blob/main/README.md)
     </li>
 
