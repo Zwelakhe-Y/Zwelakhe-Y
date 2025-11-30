@@ -34,7 +34,7 @@
  
 <h2>⚙️ IT Junior Engineer</h2>
 
-<div>
+
   - <b>[ Azure Labs ] </b><br>
   - (https://github.com/Azure-Labs-IT)
     <li>
@@ -44,7 +44,7 @@
     <b>[ Lab 2 ]</b> <br>
       (https://github.com/Azure-Labs-IT/Lab-2-Azure/blob/main/README.md)
     </li>
-</div>
+
 
 
     
