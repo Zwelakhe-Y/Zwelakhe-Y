@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zweli ! a <br/><a href="https://github.com/Zwelakhe-Y">Web Developer</a>, <a href="https://www.linkedin.com/in/zwelakhe-yende-7b599b279">Customer Support Agent</a> and <a href=""> IT Professional </a>
+<h1>Hi, I'm Zweli ! a <br/><a href="https://github.com/Zwelakhe-Y">Web Developer</a>, <a href="https://www.linkedin.com/in/zwelakhe-yende-7b599b279">Customer Support Agent</a> and <a href=""> Junior IT Engineer </a>
 
 <h2>👨‍💻 Web Development Projects (Frontend) (MERN STACK):</h2>
 
