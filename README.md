@@ -50,8 +50,14 @@
       
       <li>
         <b>[ Lab 3 ]</b> <br>
-        (https://github.com/Azure-Labs-IT/Lab-3-Azure-Observe-Network-Traffic)
+        (https://github.com/Azure-Labs-IT/Lab-3-Azure-Observe-Network-Traffic/blob/main/README.md)
       </li>
+      
+      <li>
+        <b>[ Lab 4 ]</b> <br>
+        (https://github.com/Azure-Labs-IT/Lab-4-Simple-Firewall-on-Azure/blob/main/README.md)
+      </li>
+
     </ul>
 
 
