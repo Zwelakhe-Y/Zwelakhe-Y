@@ -35,56 +35,55 @@
 <h2>⚙️ IT Junior Engineer</h2>
 
 
-  - <b>[ Azure Labs ] </b><br>
-   (https://github.com/Azure-Labs-IT)
+  <h3> <b> Azure Labs </b> </h3 <br />
+   (https://github.com/Azure-Labs-IT) <br />
+   <br/>
     <ul>
       <li>
         <b>[ Lab 1 - Resource Groups and Storage Account Creation ]</b> <br>
         (https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/README.md)
-      </li>
- 
+      </li> 
+      <br/>
       <li>
         <b>[ Lab 2 - Virtual Machine Creation and Deployment ]</b> <br>
         (https://github.com/Azure-Labs-IT/Lab-2-Azure/blob/main/README.md)
       </li>
-      
+      <br/>
       <li>
         <b>[ Lab 3 - Observe General and filtered Network Traffic ]</b> <br>
         (https://github.com/Azure-Labs-IT/Lab-3-Azure-Observe-Network-Traffic/blob/main/README.md)
       </li>
-      
+      <br/>
       <li>
         <b>[ Lab 4 - Configure Simple Firewall ]</b> <br>
         (https://github.com/Azure-Labs-IT/Lab-4-Simple-Firewall-on-Azure/blob/main/README.md)
       </li>
-      
+      <br/>
       <li>
         <b>[ Lab 5 - Observe Simple Traffic between 2 PCs in a subnet ]</b> <br>
         (https://github.com/Azure-Labs-IT/Lab-5---Observ-SSH-Traffic/blob/main/README.md)
       </li>
-      
+      <br/>
       <li>
         <b>[ Lab 6 - Initialize and Observe DHCP Traffic ]</b> <br>
         (https://github.com/Azure-Labs-IT/Lab-6-Observe-DHCP-Traffic/blob/main/README.md)
       </li>
-      
+      <br/>
       <li>
         <b>[ Lab 7 - Initialize and Observe DNS Traffic ]</b> <br>
         (https://github.com/Azure-Labs-IT/Lab-7-Initialize-observe-DNS-Traffic/blob/main/README.md)
       </li>
+  </ul>
+  <br/>
 
-    </ul>
-
- - <b>[ osTicket Labs ] </b><br>
-   (https://github.com/Azure-Labs-IT)
+<h3><b>osTicket Labs </b> </h3>
+   (https://github.com/osTicket-Labs) <br/>
+   <br/>
     <ul>
       <li>
         <b>[ Lab 1 - Preparing & installing the osTicket & it's infrastructure ]</b> <br>
         (https://github.com/osTicket-Labs/Lab-1-Preparing-and-installing-the-infrastructure-for-osTicket/blob/main/README.md)
       </li>
- 
-
-
     </ul>
 
 
