@@ -39,23 +39,28 @@
    (https://github.com/Azure-Labs-IT)
     <ul>
       <li>
-        <b>[ Lab 1 ]</b> <br>
+        <b>[ Lab 1 - Azure Resource Groups and Storage Account Creation ]</b> <br>
         (https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/README.md)
       </li>
  
       <li>
-        <b>[ Lab 2 ]</b> <br>
+        <b>[ Lab 2 - Azure Virtual Machine Creation and Deployment ]</b> <br>
         (https://github.com/Azure-Labs-IT/Lab-2-Azure/blob/main/README.md)
       </li>
       
       <li>
-        <b>[ Lab 3 ]</b> <br>
+        <b>[ Lab 3 - Observe Network Traffic and protocol filtered Traffic ]</b> <br>
         (https://github.com/Azure-Labs-IT/Lab-3-Azure-Observe-Network-Traffic/blob/main/README.md)
       </li>
       
       <li>
-        <b>[ Lab 4 ]</b> <br>
+        <b>[ Lab 4 - Configure Simple Firewall ]</b> <br>
         (https://github.com/Azure-Labs-IT/Lab-4-Simple-Firewall-on-Azure/blob/main/README.md)
+      </li>
+      
+      <li>
+        <b>[ Lab 5 - Observe Simple Traffic between 2 PCs in a subnet ]</b> <br>
+        (https://github.com/Azure-Labs-IT/Lab-5---Observ-SSH-Traffic/blob/main/README.md)
       </li>
 
     </ul>
