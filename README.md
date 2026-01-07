@@ -75,6 +75,18 @@
 
     </ul>
 
+ - <b>[ osTicket Labs ] </b><br>
+   (https://github.com/Azure-Labs-IT)
+    <ul>
+      <li>
+        <b>[ Lab 1 - Preparing & installing the osTicket & it's infrastructure ]</b> <br>
+        (https://github.com/osTicket-Labs/Lab-1-Preparing-and-installing-the-infrastructure-for-osTicket/blob/main/README.md)
+      </li>
+ 
+
+
+    </ul>
+
 
 
     
