@@ -67,6 +67,11 @@
         <b>[ Lab 6 - Initialize and Observe DHCP Traffic ]</b> <br>
         (https://github.com/Azure-Labs-IT/Lab-6-Observe-DHCP-Traffic/blob/main/README.md)
       </li>
+      
+      <li>
+        <b>[ Lab 7 - Initialize and Observe DNS Traffic ]</b> <br>
+        (https://github.com/Azure-Labs-IT/Lab-7-Initialize-observe-DNS-Traffic/blob/main/README.md)
+      </li>
 
     </ul>
 
