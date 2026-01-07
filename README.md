@@ -62,6 +62,11 @@
         <b>[ Lab 5 - Observe Simple Traffic between 2 PCs in a subnet ]</b> <br>
         (https://github.com/Azure-Labs-IT/Lab-5---Observ-SSH-Traffic/blob/main/README.md)
       </li>
+      
+      <li>
+        <b>[ Lab 6 - Initialize and Observe DHCP Traffic ]</b> <br>
+        (https://github.com/Azure-Labs-IT/Lab-6-Observe-DHCP-Traffic/blob/main/README.md)
+      </li>
 
     </ul>
 
