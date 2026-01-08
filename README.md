@@ -84,6 +84,10 @@
         <b>[ Lab 1 - Preparing & installing the osTicket & it's infrastructure ]</b> <br>
         (https://github.com/osTicket-Labs/Lab-1-Preparing-and-installing-the-infrastructure-for-osTicket/blob/main/README.md)
       </li>
+      <li>
+        <b>[ Lab 2 - Setting up osTicket for Agents and Users ]</b> <br>
+        (https://github.com/osTicket-Labs/Lab-2-Setting-Up-osTicket-for-users-and-agents/blob/main/README.md)
+      </li>
     </ul>
 
 
