@@ -92,6 +92,17 @@
       <br />
     </ul>
 
+  <h3><b>VPN Labs </b> </h3>
+   (https://github.com/osTicket-Labs) <br/>
+   <br/>
+    <ul>
+      <li>
+        <b>[ Lab 1 - How to Setup a VPN and observe how it masks your/an IP Address ]</b> <br>
+        (https://github.com/VPN-Labs/VPNs-How-to-set-up-a-VPN/blob/main/README.md)
+      </li>
+      <br />
+    </ul>
+
 
 
     
