@@ -93,7 +93,7 @@
     </ul>
 
   <h3><b>VPN Labs </b> </h3>
-   (https://github.com/osTicket-Labs) <br/>
+   (https://github.com/VPN-Labs) <br/>
    <br/>
     <ul>
       <li>
