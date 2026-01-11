@@ -60,7 +60,7 @@
       </li>
       <br/>
       <li>
-        <b>[ Lab 5 - Observe Simple Traffic between 2 PCs in a subnet ]</b> <br>
+        <b>[ Lab 5 - Observe SSH Traffic between 2 Computers in a subnet ]</b> <br>
         (https://github.com/Azure-Labs-IT/Lab-5---Observ-SSH-Traffic/blob/main/README.md)
       </li>
       <br/>
