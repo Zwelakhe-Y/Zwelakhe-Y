@@ -50,7 +50,7 @@
       </li>
       <br/>
       <li>
-        <b>[ Lab 3 - Observe General and filtered Network Traffic ]</b> <br>
+        <b>[ Lab 3 - Configuring Wireshark for Subnet Protocol Analysis ]</b> <br>
         (https://github.com/Azure-Labs-IT/Lab-3-Azure-Observe-Network-Traffic/blob/main/README.md)
       </li>
       <br/>
