@@ -70,7 +70,7 @@
       </li>
       <br/>
       <li>
-        <b>[ Lab 7 - Initialize and Observe DNS Traffic ]</b> <br>
+        <b>[ Lab 7 - Monitoring DNS Communication via Wireshark ]</b> <br>
         (https://github.com/Azure-Labs-IT/Lab-7-Initialize-observe-DNS-Traffic/blob/main/README.md)
       </li>
   </ul>
