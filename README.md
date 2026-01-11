@@ -55,7 +55,7 @@
       </li>
       <br/>
       <li>
-        <b>[ Lab 4 - Configure Simple Firewall ]</b> <br>
+        <b>[ Lab 4 - Securing VM Subnets with Network Security Groups ]</b> <br>
         (https://github.com/Azure-Labs-IT/Lab-4-Simple-Firewall-on-Azure/blob/main/README.md)
       </li>
       <br/>
