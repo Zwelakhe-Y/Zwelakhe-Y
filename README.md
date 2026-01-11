@@ -65,7 +65,7 @@
       </li>
       <br/>
       <li>
-        <b>[ Lab 6 - Initialize and Observe DHCP Traffic ]</b> <br>
+        <b>[ Lab 6 - Observing DHCP Lifecycle and Address Re-acquisition ]</b> <br>
         (https://github.com/Azure-Labs-IT/Lab-6-Observe-DHCP-Traffic/blob/main/README.md)
       </li>
       <br/>
