@@ -103,6 +103,17 @@
       <br />
     </ul>
 
+  <h3><b>Active Directory Labs </b> </h3>
+   (https://github.com/Active-Directory-Labs) <br/>
+   <br/>
+    <ul>
+      <li>
+        <b>[ Building a Foundational AD Environment in Microsoft Azure ]</b> <br>
+        (https://github.com/Active-Directory-Labs/Building-a-Foundational-AD-Environment-in-Microsoft-Azure/blob/main/README.md)
+      </li>
+      <br />
+    </ul>
+
 
 
     
