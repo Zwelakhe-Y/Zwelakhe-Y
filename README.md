@@ -112,6 +112,11 @@
         (https://github.com/Active-Directory-Labs/Building-a-Foundational-AD-Environment-in-Microsoft-Azure/blob/main/README.md)
       </li>
       <br />
+      <li>
+        <b>[ Configuring Windows Server Domain Controllers and OUs in Azure ]</b> <br>
+        (https://github.com/Active-Directory-Labs/How-to-deploy-AD-and-create-OUs-and-Users/blob/main/README.md)
+      </li>
+      <br />
     </ul>
 
 
