@@ -117,6 +117,11 @@
         (https://github.com/Active-Directory-Labs/How-to-deploy-AD-and-create-OUs-and-Users/blob/main/README.md)
       </li>
       <br />
+      <li>
+        <b>[ Automating User Creation and Local Permissions in AD ]</b> <br>
+        (https://github.com/Active-Directory-Labs/Automating-User-Creation-and-Local-Permissions-in-AD/blob/main/README.md)
+      </li>
+      <br />
     </ul>
 
 
