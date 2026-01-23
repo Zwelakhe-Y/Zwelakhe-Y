@@ -122,6 +122,11 @@
         (https://github.com/Active-Directory-Labs/Automating-User-Creation-and-Local-Permissions-in-AD/blob/main/README.md)
       </li>
       <br />
+      <li>
+        <b>[ Hardening Active Directory with GPOs and Account Management ]</b> <br>
+        (https://github.com/Active-Directory-Labs/Hardening-Active-Directory-with-GPOs-and-Account-Management/blob/main/README.md)
+      </li>
+      <br />
     </ul>
 
 
