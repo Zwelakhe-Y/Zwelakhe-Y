@@ -127,6 +127,11 @@
         (https://github.com/Active-Directory-Labs/Hardening-Active-Directory-with-GPOs-and-Account-Management/blob/main/README.md)
       </li>
       <br />
+      <li>
+        <b>[ Managing DNS Infrastructure: Host Mapping and Domain Aliasing ]</b> <br>
+        (https://github.com/Active-Directory-Labs/Managing-DNS-Infrastructure-Host-Mapping-and-Domain-Aliasing/blob/main/README.md)
+      </li>
+      <br />
     </ul>
 
 
