@@ -132,6 +132,11 @@
         (https://github.com/Active-Directory-Labs/Managing-DNS-Infrastructure-Host-Mapping-and-Domain-Aliasing/blob/main/README.md)
       </li>
       <br />
+      <li>
+        <b>[ Deploying Role-Based File Sharing for Domain Users ]</b> <br>
+        (https://github.com/Active-Directory-Labs/Deploying-Role-Based-File-Sharing-for-Domain-Users/blob/main/README.md)
+      </li>
+      <br />
     </ul>
 
 
