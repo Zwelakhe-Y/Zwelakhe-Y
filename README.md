@@ -1,41 +1,9 @@
-<h1>Hi, I'm Zweli ! a <br/><a href="https://github.com/Zwelakhe-Y">Web Developer</a>, <a href="https://www.linkedin.com/in/zwelakhe-yende-7b599b279">Customer Support Agent</a> and <a href=""> Junior IT Engineer </a>
+<h1>Hi, I'm Zweli ! an <a href="">IT Help Desk agent</a> <a href="https://www.linkedin.com/in/zwelakhe-yende-7b599b279">Customer Support Agent</a>, and <br/><a href="https://github.com/Zwelakhe-Y">Web Developer</a>
 
-<h2>👨‍💻 Web Development Projects (Frontend) (MERN STACK):</h2>
-
-- <b>Construction Website (Frontend) </b>
-  - [Simple Contsruction Website](https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Construction)
-- <b>Netflix (Frontend)</b>
-  - [Netflix Clone](https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Entertainment/Netflix%20Clone)
-- <b>Shein Clone (Frontend</b>
-  - [Simple Shein duplicate](https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Fashion/Shein%20Duplicate)
-
-<h2>🔐 Web Development Projects (Backend):</h2> <br>
-
-<b> Simple CRUD App (JavaScript, HTML, CSS, SCSS)</b>
-  - [Backend Create Read Update and Delete App](https://github.com/Zwelakhe-Y/Portfolio/tree/main/Backend/Simple-Crud-App) 
-  <br>
-  
-<b> Job Listing App (JavaScript, HTML, CSS, SCSS) </b>
-  - [Backend App for job listing ,updating and progression tracking of job application](https://github.com/Zwelakhe-Y/Backend-Projects/tree/main/Job-Listing%20Backend%20App)
-
-<h2>🌐 Simple Web Apps</h2>
-
-- <b>[ Rock Paper, Scissors Game ] </b><br>
-  - (https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Web%20APPS/Simple%20Apps/RPS-Game)
-  
-- <b>[ Todo App (React, VISE) ]</b> <br>
-  - (https://github.com/Zwelakhe-Y/React-Projects/tree/main/Todo_App)
-
-- <b> [ Temperature Conversion App ] </b> <br>
-  - (https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Web%20APPS/Simple%20Apps/Temp%20Conversion%20App)
-
-- <b> [ Weather App ( API, Javascript) ]</b> <br>
-  - (https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Web%20APPS/Simple%20Apps/Weather%20App)
- 
-<h2>⚙️ IT Junior Engineer</h2>
+<h2>⚙️ Help Desk Labs</h2>
 
 
-  <h3> <b> Azure Labs </b> </h3 <br />
+  <h3> <b> Azure </b> </h3 <br />
    (https://github.com/Azure-Labs-IT) <br />
    <br/>
     <ul>
@@ -76,7 +44,7 @@
   </ul>
   <br/>
 
-<h3><b>osTicket Labs </b> </h3>
+<h3><b>osTicket </b> </h3>
    (https://github.com/osTicket-Labs) <br/>
    <br/>
     <ul>
@@ -92,7 +60,7 @@
       <br />
     </ul>
 
-  <h3><b>VPN Labs </b> </h3>
+  <h3><b>VPN </b> </h3>
    (https://github.com/VPN-Labs) <br/>
    <br/>
     <ul>
@@ -103,7 +71,7 @@
       <br />
     </ul>
 
-  <h3><b>Active Directory Labs </b> </h3>
+  <h3><b>Active Directory </b> </h3>
    (https://github.com/Active-Directory-Labs) <br/>
    <br/>
     <ul>
@@ -138,6 +106,42 @@
       </li>
       <br />
     </ul>
+
+
+
+<h2>👨‍💻 Web Development Projects (Frontend) (MERN STACK):</h2>
+
+- <b>Construction Website (Frontend) </b>
+  - [Simple Contsruction Website](https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Construction)
+- <b>Netflix (Frontend)</b>
+  - [Netflix Clone](https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Entertainment/Netflix%20Clone)
+- <b>Shein Clone (Frontend</b>
+  - [Simple Shein duplicate](https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Fashion/Shein%20Duplicate)
+
+<h2>🔐 Web Development Projects (Backend):</h2> <br>
+
+<b> Simple CRUD App (JavaScript, HTML, CSS, SCSS)</b>
+  - [Backend Create Read Update and Delete App](https://github.com/Zwelakhe-Y/Portfolio/tree/main/Backend/Simple-Crud-App) 
+  <br>
+  
+<b> Job Listing App (JavaScript, HTML, CSS, SCSS) </b>
+  - [Backend App for job listing, updating, and progression tracking of job application](https://github.com/Zwelakhe-Y/Backend-Projects/tree/main/Job-Listing%20Backend%20App)
+
+<h2>🌐 Simple Web Apps</h2>
+
+- <b>[ Rock Paper, Scissors Game ] </b><br>
+  - (https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Web%20APPS/Simple%20Apps/RPS-Game)
+  
+- <b>[ Todo App (React, VISE) ]</b> <br>
+  - (https://github.com/Zwelakhe-Y/React-Projects/tree/main/Todo_App)
+
+- <b> [ Temperature Conversion App ] </b> <br>
+  - (https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Web%20APPS/Simple%20Apps/Temp%20Conversion%20App)
+
+- <b> [ Weather App ( API, Javascript) ]</b> <br>
+  - (https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Web%20APPS/Simple%20Apps/Weather%20App)
+ 
+
 
 
 
