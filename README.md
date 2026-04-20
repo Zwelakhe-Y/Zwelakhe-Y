@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zweli ! an <a href="">IT Help Desk agent</a>, a <a href="https://www.linkedin.com/in/zwelakhe-yende-7b599b279">Customer Support Agent</a>, and <br/><a href="https://github.com/Zwelakhe-Y/Zwelakhe-Y/blob/main/README.md#%E2%80%8D-web-development-projects-frontend-mern-stack">Web Developer</a>
+<h1>Hi, I'm Zweli ! an <a href="https://github.com/Zwelakhe-Y/Zwelakhe-Y/blob/main/README.md#%EF%B8%8F-help-desk-labs">IT Help Desk agent</a>, a <a href="https://www.linkedin.com/in/zwelakhe-yende-7b599b279">Customer Support Agent</a>, and <br/><a href="https://github.com/Zwelakhe-Y/Zwelakhe-Y/blob/main/README.md#%E2%80%8D-web-development-projects-frontend-mern-stack">Web Developer</a>
 
 <h2>⚙️ Help Desk Labs</h2>
 
