@@ -2,6 +2,42 @@
 
 <h2>⚙️ Help Desk Labs</h2>
 
+ <h3> <b> e5 Labs - <a href="https://github.com/Zwelakhe-Y/m365-enterprise-labs/tree/main">Overview</a> </b> </h3 <br />
+   <br/>
+    <ul>
+      <li>
+        <a href="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/identity-access/user-management.md#microsoft-365-identity--access-management-lab">
+          <b> Identity-Access </b>
+        </a> <br>
+      </li> 
+      <br/>
+      <li>
+        <a href="">
+          <b> Security-Zero-Trust </b>
+        </a> <br>
+      </li>
+      <br/>
+      <li>
+        <a href="">
+          <b> Intune-Device-Management </b>
+        </a> <br>
+      </li>
+      <br/>
+      <li>
+       <a href="">
+          <b> Exchange-Troubleshooting </b>
+       </a> <br>
+      </li>
+      <br/>
+      <li>
+        <a href="">
+          <b> Incident-Response </b>
+        </a> <br>
+      </li>
+      <br/>
+  </ul>
+  <br/>
+
 
   <h3> <b> Azure </b> </h3 <br />
    (https://github.com/Azure-Labs-IT) <br />
