@@ -14,25 +14,25 @@
       <li>
         <a href="">
           <b> Security-Zero-Trust </b>
-        </a> <br>
+        </a> (In Progress) <br>
       </li>
       <br/>
       <li>
         <a href="">
           <b> Intune-Device-Management </b>
-        </a> <br>
+        </a> (In Progress)<br>
       </li>
       <br/>
       <li>
        <a href="">
           <b> Exchange-Troubleshooting </b>
-       </a> <br>
+       </a> (In Progress) <br>
       </li>
       <br/>
       <li>
         <a href="">
           <b> Incident-Response </b>
-        </a> <br>
+        </a> (In Progress) <br>
       </li>
       <br/>
   </ul>
