@@ -39,43 +39,35 @@
   <br/>
 
 
-  <h3> <b> Azure </b> </h3 <br />
-   (https://github.com/Azure-Labs-IT) <br />
+  <h3> <b> Azure Labs - <a href="https://github.com/Azure-Labs-IT">Overview</a>  </b> </h3 <br />
    <br/>
     <ul>
       <li>
-        <b>[ Lab 1 - Resource Groups and Storage Account Creation ]</b> <br>
-        (https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/README.md)
+        <b> <a href="https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/README.md"> Resource Groups and Storage Account Creation </a> </b> <br>
       </li> 
       <br/>
       <li>
-        <b>[ Lab 2 - Virtual Machine Creation and Deployment ]</b> <br>
-        (https://github.com/Azure-Labs-IT/Lab-2-Azure/blob/main/README.md)
+        <b> <a href="https://github.com/Azure-Labs-IT/Lab-2-Azure/blob/main/README.md"> Virtual Machine Creation and Deployment </a> </b> <br>
       </li>
       <br/>
       <li>
-        <b>[ Lab 3 - Configuring Wireshark for Subnet Protocol Analysis ]</b> <br>
-        (https://github.com/Azure-Labs-IT/Lab-3-Azure-Observe-Network-Traffic/blob/main/README.md)
+        <b> <a href="https://github.com/Azure-Labs-IT/Lab-3-Azure-Observe-Network-Traffic/blob/main/README.md"> Configuring Wireshark for Subnet Protocol Analysis </a></b> <br>
       </li>
       <br/>
       <li>
-        <b>[ Lab 4 - Securing VM Subnets with Network Security Groups ]</b> <br>
-        (https://github.com/Azure-Labs-IT/Lab-4-Simple-Firewall-on-Azure/blob/main/README.md)
+        <b> <a href="https://github.com/Azure-Labs-IT/Lab-4-Simple-Firewall-on-Azure/blob/main/README.md"> Securing VM Subnets with Network Security Groups </a></b> <br>
       </li>
       <br/>
       <li>
-        <b>[ Lab 5 - Observing Encrypted SSH Traffic in Azure Subnets ]</b> <br>
-        (https://github.com/Azure-Labs-IT/Lab-5---Observ-SSH-Traffic/blob/main/README.md)
+        <b> <a href="https://github.com/Azure-Labs-IT/Lab-5---Observ-SSH-Traffic/blob/main/README.md"> Observing Encrypted SSH Traffic in Azure Subnets </a> </b> <br>
       </li>
       <br/>
       <li>
-        <b>[ Lab 6 - Observing DHCP Lifecycle and Address Re-acquisition ]</b> <br>
-        (https://github.com/Azure-Labs-IT/Lab-6-Observe-DHCP-Traffic/blob/main/README.md)
+        <b> <a href="https://github.com/Azure-Labs-IT/Lab-6-Observe-DHCP-Traffic/blob/main/README.md"> Observing DHCP Lifecycle and Address Re-acquisition </a> </b> <br>
       </li>
       <br/>
       <li>
-        <b>[ Lab 7 - Monitoring DNS Communication via Wireshark ]</b> <br>
-        (https://github.com/Azure-Labs-IT/Lab-7-Initialize-observe-DNS-Traffic/blob/main/README.md)
+        <b> <a href="https://github.com/Azure-Labs-IT/Lab-7-Initialize-observe-DNS-Traffic/blob/main/README.md"> Monitoring DNS Communication via Wireshark </a> </b> <br>
       </li>
   </ul>
   <br/>
