@@ -18,9 +18,9 @@
       </li>
       <br/>
       <li>
-        <a href="">
+        <a href="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Device-Management/Intune%20Device%20Management.md">
           <b> Intune-Device-Management </b>
-        </a> (In Progress)<br>
+        </a> <br>
       </li>
       <br/>
       <li>
