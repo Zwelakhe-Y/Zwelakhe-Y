@@ -25,7 +25,7 @@
       <br/>
        <li>
         <a href="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/exchange-online/mailbox-setup.md">
-           <b> Exchange-Troubleshooting </b>
+           <b> Exchange Setup and Troubleshooting </b>
         </a> <br>
        </li>
       <br/>
