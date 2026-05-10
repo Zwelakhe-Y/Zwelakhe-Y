@@ -10,17 +10,23 @@
           <b> Identity-Access </b>
         </a> <br>
       </li> 
+     <br/>
+       <li>
+          <a href="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Device-Management/Intune%20Device%20Management.md">
+          <b> Intune-Device-Management </b>
+        </a> <br>
+      </li>
+      <br/>
+       <li>
+          <a href="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Identity%20Security%20%2B%20Conditional%20Access/Entra-ID.md">
+          <b> Entra ID Security & Conditional Access </b>
+        </a> <br>
+      </li>
       <br/>
       <li>
         <a href="">
           <b> Security-Zero-Trust </b>
         </a> (In Progress) <br>
-      </li>
-      <br/>
-      <li>
-        <a href="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/Device-Management/Intune%20Device%20Management.md">
-          <b> Intune-Device-Management </b>
-        </a> <br>
       </li>
       <br/>
       <li>
