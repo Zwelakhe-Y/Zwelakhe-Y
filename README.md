@@ -23,18 +23,18 @@
         </a> <br>
       </li>
       <br/>
+       <li>
+        <a href="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/exchange-online/mailbox-setup.md">
+           <b> Exchange-Troubleshooting </b>
+        </a> <br>
+       </li>
+      <br/>
       <li>
         <a href="">
           <b> Security-Zero-Trust </b>
         </a> (In Progress) <br>
       </li>
-      <br/>
-      <li>
-       <a href="">
-          <b> Exchange-Troubleshooting </b>
-       </a> (In Progress) <br>
-      </li>
-      <br/>
+     <br/>
       <li>
         <a href="">
           <b> Incident-Response </b>
