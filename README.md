@@ -31,8 +31,8 @@
       <br/>
       <li>
         <a href="">
-          <b> Security-Zero-Trust </b>
-        </a> (In Progress) <br>
+          <b> Microsoft Defender CDR & Security Operations </b>
+        </a> <br>
       </li>
      <br/>
       <li>
