@@ -1,9 +1,8 @@
 <h1>Hi, I'm Zweli ! an <a href="https://github.com/Zwelakhe-Y/Zwelakhe-Y/blob/main/README.md#%EF%B8%8F-help-desk-labs">IT Help Desk agent</a>, a <a href="https://www.linkedin.com/in/zwelakhe-yende-7b599b279">Customer Support Agent</a>, and <br/><a href="https://github.com/Zwelakhe-Y/Zwelakhe-Y/blob/main/README.md#%E2%80%8D-web-development-projects-frontend-mern-stack">Web Developer (MERN)</a>
 
-<h2>⚙️ Help Desk Labs</h2>
+<h1>⚙️ Help Desk Labs</h1>
 
- <h3> <b> e5 Labs - <a href="https://github.com/Zwelakhe-Y/m365-enterprise-labs/tree/main">Overview</a> </b> </h3 <br />
-   <br/>
+ <h2> <b> Microsoft e5 Labs - <a href="https://github.com/Zwelakhe-Y/m365-enterprise-labs/tree/main">Overview</a> </b> </h2>
     <ul>
       <li>
         <a href="https://github.com/Zwelakhe-Y/m365-enterprise-labs/blob/main/identity-access/user-management.md#microsoft-365-identity--access-management-lab">
@@ -35,18 +34,11 @@
         </a> <br>
       </li>
      <br/>
-      <li>
-        <a href="">
-          <b> Incident-Response </b>
-        </a> (In Progress) <br>
-      </li>
-      <br/>
   </ul>
   <br/>
 
 
-  <h3> <b> Azure Labs - <a href="https://github.com/Azure-Labs-IT">Overview</a>  </b> </h3 <br />
-   <br/>
+  <h2> <b> Azure Labs - <a href="https://github.com/Azure-Labs-IT">Overview</a>  </b> </h2>
     <ul>
       <li>
         <b> <a href="https://github.com/Azure-Labs-IT/Lab-1-Azure/blob/main/README.md"> Resource Groups and Storage Account Creation </a> </b> <br>
@@ -73,13 +65,13 @@
       </li>
       <br/>
       <li>
-        <b> <a href="https://github.com/Azure-Labs-IT/Lab-7-Initialize-observe-DNS-Traffic/blob/main/README.md"> Monitoring DNS Communication via Wireshark </a> </b> <br>
+        <b> <a href="https://github.com/Azure-Labs-IT/Lab-7-Initialize-observe-DNS-Traffic/blob/main/README.md"> Monitoring DNS Communication via Wireshark </a> </b>
       </li>
   </ul>
   <br/>
+  <br/>
 
-<h3><b> osTicket - <a href="https://github.com/osTicket-Labs">Overview</a></b> </h3><br/>
-   <br/>
+<h2><b> osTicket - <a href="https://github.com/osTicket-Labs">Overview</a></b> </h2>
     <ul>
       <li>
         <b> <a href="https://github.com/osTicket-Labs/Lab-1-Preparing-and-installing-the-infrastructure-for-osTicket/blob/main/README.md"> Preparing & installing osTicket & it's infrastructure <a/></b> <br>
@@ -90,19 +82,18 @@
       </li>
       <br />
     </ul>
+    <br/>
 
-  <h3><a href="https://github.com/VPN-Labs"><b>VPN </a></b> </h3>
-   <br/>
-   <br/>
+  <h2><b>VPN - <a href="https://github.com/VPN-Labs">Overview </a></b> </h2>
     <ul>
       <li>
         <b><a href="https://github.com/VPN-Labs/VPNs-How-to-set-up-a-VPN/blob/main/README.md"> How to Set Up a VPN and observe how it masks your/an IP Address </a></b> <br>
       </li>
       <br />
     </ul>
+    <br/>
 
-  <h3><b>Active Directory - <a href="https://github.com/Active-Directory-Labs">Overview</a></b> </h3><br/>
-   <br/>
+  <h2><b>Active Directory - <a href="https://github.com/Active-Directory-Labs">Overview</a></b> </h2>
     <ul>
       <li>
         <b><a href="https://github.com/Active-Directory-Labs/Building-a-Foundational-AD-Environment-in-Microsoft-Azure/blob/main/README.md"> Building a Foundational AD Environment in Microsoft Azure </a></b>
@@ -129,7 +120,7 @@
       </li>
       <br />
     </ul>
-
+<br/>
 
 
 <h2>👨‍💻 Web Development Projects (Frontend):</h2>
@@ -140,6 +131,7 @@
   - <a href="https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Entertainment/Netflix%20Clone"> Netflix Clone Landing Page Code</a>
 - <b>Shein Clone (Frontend</b>
   - <a href="https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Fashion/Shein%20Duplicate">Simple Shein duplicate Landing Page Code</a>
+<br/>
 
 <h2>🔐 Web Development Projects (Backend):</h2> <br>
 
@@ -149,6 +141,7 @@
   
 <b> Job Listing App (JavaScript, HTML, CSS, SCSS) </b>
   - <a href="https://github.com/Zwelakhe-Y/Backend-Projects/tree/main/Job-Listing%20Backend%20App">Backend App for job listing, updating, and progression tracking of job applications</a>
+<br/>
 
 <h2>🌐 Simple Web Apps</h2>
 
@@ -159,6 +152,7 @@
 - <b><a href="https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Web%20APPS/Simple%20Apps/Temp%20Conversion%20App"> Temperature Conversion App </a> </b>
 
 - <b><a href="https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Web%20APPS/Simple%20Apps/Weather%20App"> Weather App ( API, Javascript) </a></b>
+<br/>
 
     
 <h2> 🤳 Connect with me:</h2>
