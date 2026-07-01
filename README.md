@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zweli ! an <a href="https://github.com/Zwelakhe-Y/Zwelakhe-Y/blob/main/README.md#%EF%B8%8F-help-desk-labs">IT Help Desk agent</a>, a <a href="https://www.linkedin.com/in/zwelakhe-yende-7b599b279">Customer Support Agent</a>, and <br/><a href="https://github.com/Zwelakhe-Y/Zwelakhe-Y/blob/main/README.md#%E2%80%8D-web-development-projects-frontend-mern-stack">Web Developer</a>
+<h1>Hi, I'm Zweli ! an <a href="https://github.com/Zwelakhe-Y/Zwelakhe-Y/blob/main/README.md#%EF%B8%8F-help-desk-labs">IT Help Desk agent</a>, a <a href="https://www.linkedin.com/in/zwelakhe-yende-7b599b279">Customer Support Agent</a>, and <br/><a href="https://github.com/Zwelakhe-Y/Zwelakhe-Y/blob/main/README.md#%E2%80%8D-web-development-projects-frontend-mern-stack">Web Developer (MERN)</a>
 
 <h2>⚙️ Help Desk Labs</h2>
 
@@ -78,106 +78,87 @@
   </ul>
   <br/>
 
-<h3><b>osTicket </b> </h3>
-   (https://github.com/osTicket-Labs) <br/>
+<h3><b> osTicket - <a href="https://github.com/osTicket-Labs">Overview</a></b> </h3><br/>
    <br/>
     <ul>
       <li>
-        <b>[ Lab 1 - Preparing & installing osTicket & it's infrastructure ]</b> <br>
-        (https://github.com/osTicket-Labs/Lab-1-Preparing-and-installing-the-infrastructure-for-osTicket/blob/main/README.md)
+        <b> <a href="https://github.com/osTicket-Labs/Lab-1-Preparing-and-installing-the-infrastructure-for-osTicket/blob/main/README.md"> Preparing & installing osTicket & it's infrastructure <a/></b> <br>
       </li>
       <br/>
       <li>
-        <b>[ Lab 2 - Setting up osTicket for Agents and Users ]</b> <br>
-        (https://github.com/osTicket-Labs/Lab-2-Setting-Up-osTicket-for-users-and-agents/blob/main/README.md)
+        <b><a href="https://github.com/osTicket-Labs/Lab-2-Setting-Up-osTicket-for-users-and-agents/blob/main/README.md"> Setting up osTicket for Agents and Users </a> <br>
       </li>
       <br />
     </ul>
 
-  <h3><b>VPN </b> </h3>
-   (https://github.com/VPN-Labs) <br/>
+  <h3><a href="https://github.com/VPN-Labs"><b>VPN </a></b> </h3>
+   <br/>
    <br/>
     <ul>
       <li>
-        <b>[ Lab 1 - How to Setup a VPN and observe how it masks your/an IP Address ]</b> <br>
-        (https://github.com/VPN-Labs/VPNs-How-to-set-up-a-VPN/blob/main/README.md)
+        <b><a href="https://github.com/VPN-Labs/VPNs-How-to-set-up-a-VPN/blob/main/README.md"> How to Set Up a VPN and observe how it masks your/an IP Address </a></b> <br>
       </li>
       <br />
     </ul>
 
-  <h3><b>Active Directory </b> </h3>
-   (https://github.com/Active-Directory-Labs) <br/>
+  <h3><b>Active Directory - <a href="https://github.com/Active-Directory-Labs">Overview</a></b> </h3><br/>
    <br/>
     <ul>
       <li>
-        <b>[ Building a Foundational AD Environment in Microsoft Azure ]</b> <br>
-        (https://github.com/Active-Directory-Labs/Building-a-Foundational-AD-Environment-in-Microsoft-Azure/blob/main/README.md)
+        <b><a href="https://github.com/Active-Directory-Labs/Building-a-Foundational-AD-Environment-in-Microsoft-Azure/blob/main/README.md"> Building a Foundational AD Environment in Microsoft Azure </a></b>
       </li>
       <br />
       <li>
-        <b>[ Configuring Windows Server Domain Controllers and OUs in Azure ]</b> <br>
-        (https://github.com/Active-Directory-Labs/How-to-deploy-AD-and-create-OUs-and-Users/blob/main/README.md)
+        <b><a href="https://github.com/Active-Directory-Labs/How-to-deploy-AD-and-create-OUs-and-Users/blob/main/README.md"> Configuring Windows Server Domain Controllers and OUs in Azure </a></b>
       </li>
       <br />
       <li>
-        <b>[ Automating User Creation and Local Permissions in AD ]</b> <br>
-        (https://github.com/Active-Directory-Labs/Automating-User-Creation-and-Local-Permissions-in-AD/blob/main/README.md)
+        <b><a href="https://github.com/Active-Directory-Labs/Automating-User-Creation-and-Local-Permissions-in-AD/blob/main/README.md"> Automating User Creation and Local Permissions in AD </a></b>
       </li>
       <br />
       <li>
-        <b>[ Hardening Active Directory with GPOs and Account Management ]</b> <br>
-        (https://github.com/Active-Directory-Labs/Hardening-Active-Directory-with-GPOs-and-Account-Management/blob/main/README.md)
+        <b><a href="https://github.com/Active-Directory-Labs/Hardening-Active-Directory-with-GPOs-and-Account-Management/blob/main/README.md"> Hardening Active Directory with GPOs and Account Management </a></b>
       </li>
       <br />
       <li>
-        <b>[ Managing DNS Infrastructure: Host Mapping and Domain Aliasing ]</b> <br>
-        (https://github.com/Active-Directory-Labs/Managing-DNS-Infrastructure-Host-Mapping-and-Domain-Aliasing/blob/main/README.md)
+        <b><a href="https://github.com/Active-Directory-Labs/Managing-DNS-Infrastructure-Host-Mapping-and-Domain-Aliasing/blob/main/README.md"> Managing DNS Infrastructure: Host Mapping and Domain Aliasing </a></b>
       </li>
       <br />
       <li>
-        <b>[ Deploying Role-Based File Sharing for Domain Users ]</b> <br>
-        (https://github.com/Active-Directory-Labs/Deploying-Role-Based-File-Sharing-for-Domain-Users/blob/main/README.md)
+        <b><a href="https://github.com/Active-Directory-Labs/Deploying-Role-Based-File-Sharing-for-Domain-Users/blob/main/README.md"> Deploying Role-Based File Sharing for Domain Users </a></b>
       </li>
       <br />
     </ul>
 
 
 
-<h2>👨‍💻 Web Development Projects (Frontend) (MERN STACK):</h2>
+<h2>👨‍💻 Web Development Projects (Frontend):</h2>
 
 - <b>Construction Website (Frontend) </b>
-  - [Simple Contsruction Website](https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Construction)
+  - <a href="https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Construction">Simple Construction Landing Page Code</a>
 - <b>Netflix (Frontend)</b>
-  - [Netflix Clone](https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Entertainment/Netflix%20Clone)
+  - <a href="https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Entertainment/Netflix%20Clone"> Netflix Clone Landing Page Code</a>
 - <b>Shein Clone (Frontend</b>
-  - [Simple Shein duplicate](https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Fashion/Shein%20Duplicate)
+  - <a href="https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Fashion/Shein%20Duplicate">Simple Shein duplicate Landing Page Code</a>
 
 <h2>🔐 Web Development Projects (Backend):</h2> <br>
 
 <b> Simple CRUD App (JavaScript, HTML, CSS, SCSS)</b>
-  - [Backend Create Read Update and Delete App](https://github.com/Zwelakhe-Y/Portfolio/tree/main/Backend/Simple-Crud-App) 
+  - <a href="https://github.com/Zwelakhe-Y/Portfolio/tree/main/Backend/Simple-Crud-App">Backend Create Read Update and Delete App</a> 
   <br>
   
 <b> Job Listing App (JavaScript, HTML, CSS, SCSS) </b>
-  - [Backend App for job listing, updating, and progression tracking of job application](https://github.com/Zwelakhe-Y/Backend-Projects/tree/main/Job-Listing%20Backend%20App)
+  - <a href="https://github.com/Zwelakhe-Y/Backend-Projects/tree/main/Job-Listing%20Backend%20App">Backend App for job listing, updating, and progression tracking of job applications</a>
 
 <h2>🌐 Simple Web Apps</h2>
 
-- <b>[ Rock Paper, Scissors Game ] </b><br>
-  - (https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Web%20APPS/Simple%20Apps/RPS-Game)
+- <b> <a href="https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Web%20APPS/Simple%20Apps/RPS-Game"> Rock Paper, Scissors Game </a> </b>
   
-- <b>[ Todo App (React, VISE) ]</b> <br>
-  - (https://github.com/Zwelakhe-Y/React-Projects/tree/main/Todo_App)
+- <b> <a href="https://github.com/Zwelakhe-Y/React-Projects/tree/main/Todo_App"> Todo App (React, VISE) </a></b>
 
-- <b> [ Temperature Conversion App ] </b> <br>
-  - (https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Web%20APPS/Simple%20Apps/Temp%20Conversion%20App)
+- <b><a href="https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Web%20APPS/Simple%20Apps/Temp%20Conversion%20App"> Temperature Conversion App </a> </b>
 
-- <b> [ Weather App ( API, Javascript) ]</b> <br>
-  - (https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Web%20APPS/Simple%20Apps/Weather%20App)
- 
-
-
-
+- <b><a href="https://github.com/Zwelakhe-Y/Portfolio/tree/main/Frontend/Web%20APPS/Simple%20Apps/Weather%20App"> Weather App ( API, Javascript) </a></b>
 
     
 <h2> 🤳 Connect with me:</h2>
